@@ -1,4 +1,4 @@
-token=NTAxOTQ0MTAzMjQwNTk3NTQ0.Dqgvpw.2_gAipwQ1IgAbosrSKtzrzoMt8Y
+token=NTAxOTUzOTkxNzY5NDU2NjU1.DqhBxw.hgF_MT_keThhObwssdkvQuRAlCA
 owner=302836004237344779
 prefix=5
 game=ELDERS EMPIRE
